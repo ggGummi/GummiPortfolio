@@ -110,4 +110,5 @@ a {
     right: 0;
     bottom: auto; /* or just remove */
     left: 0;
+    z-index: -1;
   }
